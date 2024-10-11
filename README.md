@@ -15,3 +15,12 @@ To create annual report, by using that report, the company can analyze and prepa
 -Relation between age and gender based on number.
 
 -Which channel is contributing to maximum sales?
+## Process
+-Data Cleaning: Verify data for any missing values and anomalies, and sort out the same.
+
+-Data Processing: Made sure data is consistent and clean with respect to data type, data format and values used.
+
+-Data Analysis: Created pivot tables according to the questions asked.
+
+-Dashboard: Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
