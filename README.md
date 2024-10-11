@@ -31,3 +31,7 @@ To create annual report, by using that report, the company can analyze and prepa
 -Adult age group (30-49 yrs) is max contributing (~50%)
 
 -Amazon, Flipkart and Myntra channels are max contributing (~80%)
+
+## Final conclusion to improve store sales:
+Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
+
